@@ -1,9 +1,11 @@
-### Hi there, I'm 𝓚𝓪𝔃𝓲 𝓡𝓪𝓱𝓪𝓽 - aka [𝕂𝕒𝕫𝕚'𝕤 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠][website] 👋
+### 𝓗𝓲 𝓽𝓱𝓮𝓻𝓮, I'm 𝓚𝓪𝔃𝓲 𝓡𝓪𝓱𝓪𝓽 - 
+
+## 𝓗𝓮𝓻𝓮 𝓲𝓼 [𝕂𝕒𝕫𝕚'𝕤 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠][website] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a front end developer and Bloger!!
+## 𝓘'𝓶 𝓪 𝓕𝓻𝓸𝓷𝓽 𝓔𝓷𝓭 𝓓𝓮𝓿𝓮𝓵𝓸𝓹𝓮𝓻 𝓪𝓷𝓭 𝓑𝓵𝓸𝓰𝓰𝓮𝓻!!
 
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░████░░████░░░████░░░░░░░
@@ -18,6 +20,7 @@
 ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
 
+
 - ✍ I am currently working on react js.😍
 - ✍ I’m currently learning redux, sass 😊
 - ✍ I’m looking to collaborate with other content creators.😃
@@ -27,7 +30,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+ [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
