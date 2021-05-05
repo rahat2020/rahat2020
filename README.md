@@ -1,15 +1,28 @@
-### Hi there, I'm Kazi Rahat - aka [codeSTACKr][website] 👋
+### Hi there, I'm 𝓚𝓪𝔃𝓲 𝓡𝓪𝓱𝓪𝓽 - aka [𝕂𝕒𝕫𝕚'𝕤 ℙ𝕠𝕣𝕥𝕗𝕠𝕝𝕚𝕠][website] 👋
 
 <!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
-## I'm a front end developer, Bloger!!
+## I'm a front end developer and Bloger!!
 
-- 🔭 I am currently working on react js.
-- 🌱 I’m currently learning redux, sass🤣
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects and learn more new technologies and tools.
-- ⚡ Fun fact: I love to draw and play guitar / drums
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░░░░░░░░████░░████░░░████░░░░░░░
+░░░░░░░░████░░████░░░░░░░░░░░░░░
+░░░░░░░░████░░████░░░████░░░░░░░
+░░░░░░░░████▄▄████░░░████░░░░░░░
+░░░░░░░░██████████░░░████░░░░░░░
+░░░░░░░░████▀▀████░░░████░░░░░░░
+░░░░░░░░████░░████░░░████░░░░░░░
+░░░░░░░░████░░████░░░████░░░░░░░
+░░░░░░░░████░░████░░░████░░░░░░░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+
+
+- ✍ I am currently working on react js.😍
+- ✍ I’m currently learning redux, sass 😊
+- ✍ I’m looking to collaborate with other content creators.😃
+- ✍ 2020 Goals: Contribute more to Open Source projects and learn more new technologies and tools.😎
+- ⚡ Fun fact: I love to do coding and playing cricket.😁
 <!-- 
 
 ### Connect with me:
