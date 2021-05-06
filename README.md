@@ -30,9 +30,13 @@
 ### Connect with me:
 
 [<img align="left" alt="kazi's Portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="kazi's Portfolio| YouTube" width="92px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />] [youtube]
+[<img align="left" alt="kazi's Portfolio| YouTube" width="92px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />][youtube]
+
 <img align="left" alt="kazi's Portfolio | Twitter" width="92px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-<img align="left" alt="kazi's Portfolio| LinkedIn" width="92px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+[<img align="left" alt="kazi's Portfolio| LinkedIn" width="92px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+
+[<img align="left" alt="kazi's Portfolio| stackoverFlow" width="92px" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />][stackOverFlow]
 
 <br />
 
@@ -114,6 +118,7 @@
 [linkedin]:https://www.linkedin.com/in/kazi-rahat-1541651b8/
 [youtube]:https://www.youtube.com/channel/UCHYS--t1fccbXYkgt_a8_OA
 [facebook]:https://www.facebook.com/KaziRahat1020/
+[stackOverFlow]:https://stackoverflow.com/users/15849279/kazi-rahat
 <!-- [course]: http://vsCodeHero.com -->
 <!-- [twitter]: https://twitter.com/codeSTACKr -->
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
