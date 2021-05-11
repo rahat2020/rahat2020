@@ -84,7 +84,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  it's coming....
+  it's coming....😃
   
 <!--START_SECTION:activity-->
 <!-- 1. ❌ Closed PR [#1](https://github.com/codeSTACKr/spotify-now-playing/pull/1) in [codeSTACKr/spotify-now-playing](https://github.com/codeSTACKr/spotify-now-playing)
