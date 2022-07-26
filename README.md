@@ -12,7 +12,7 @@
 - ✍ I am currently working on react js.😍
 - ✍ I’m currently learning redux, sass 😊
 - ✍ I’m looking to collaborate with other content creators.😃
-- ✍ 2020 Goals: Contribute more to Open Source projects and learn more new technologies and tools.😎
+- ✍ 2022 Goals: Contribute more to Open Source projects and learn more new technologies like PHP, Python and Blockchain.😎
 - ⚡ Fun fact: I love to do coding and playing cricket.😁
 
 ### Connect with me:
@@ -109,8 +109,8 @@
 [facebook]:https://www.facebook.com/KaziRahat1020/
 [stackOverFlow]:https://stackoverflow.com/users/15849279/kazi-rahat
 <!-- [course]: http://vsCodeHero.com -->
-<!-- [twitter]: https://twitter.com/codeSTACKr -->
-<!-- [instagram]: https://instagram.com/codeSTACKr -->
+[twitter]: https://twitter.com/KaziRahat2020
+[instagram]: https://www.instagram.com/kazirahat1020/
 <!-- [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
