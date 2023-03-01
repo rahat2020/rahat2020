@@ -12,7 +12,7 @@
 - ✍ I am currently working on react js and next js and also learning PHP.😍
 - ✍ I’m currently learning redux, sass 😊
 - ✍ I’m looking to collaborate with other content creators.😃
-- ✍ 2022 Goals: Contribute more to Open Source projects and learn more new technologies like PHP, Python and Blockchain.😎
+- ✍ 2023 Goals: Contribute more to Open Source projects and learn more new technologies like PHP, Python and Web Pentesting.😎
 - ⚡ Fun fact: I love to do coding and playing cricket.😁
 
 ### Connect with me:
@@ -103,9 +103,9 @@
 
 </details>
 
-[website]: https://boktiar-portfolio.web.app/
-[linkedin]:https://www.linkedin.com/in/kazi-rahat-1541651b8/
-[youtube]:https://www.youtube.com/channel/UCHYS--t1fccbXYkgt_a8_OA
+[website]: https://boktiarr.web.app/
+[linkedin]: https://www.linkedin.com/in/kazi-rahat2020/
+[youtube]: https://www.youtube.com/channel/UCHYS--t1fccbXYkgt_a8_OA
 [facebook]:https://www.facebook.com/KaziRahat1020/
 [stackOverFlow]:https://stackoverflow.com/users/15849279/kazi-rahat
 <!-- [course]: http://vsCodeHero.com -->
