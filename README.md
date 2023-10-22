@@ -9,7 +9,7 @@
 
 
 
-- ✍ I am currently working on react js and next js and also learning PHP.😍
+- ✍ I am currently working on React JS and Next JS and also learning PHP.😍
 - ✍ I’m currently learning redux, sass 😊
 - ✍ I’m looking to collaborate with other content creators.😃
 - ✍ 2023 Goals: Contribute more to Open Source projects and learn more new technologies like PHP, Python and Web Pentesting.😎
