@@ -9,10 +9,10 @@
 
 
 
-- ✍ I am currently working on React JS and Next JS and also learning PHP.😍
-- ✍ I’m currently learning redux, sass 😊
+- ✍ I am currently working on React JS, Typescript, and Next JS and also learning PHP.😍
+- ✍ I’m currently learning GraphQL, sass 😊
 - ✍ I’m looking to collaborate with other content creators.😃
-- ✍ 2023 Goals: Contribute more to Open Source projects and learn more new technologies like PHP, Python and Web Pentesting.😎
+- ✍ 2024 Goals: Contribute more to Open Source projects and learn more new technologies like PHP, Python, and Web Pentesting.😎
 - ⚡ Fun fact: I love to do coding and playing cricket.😁
 
 ### Connect with me:
