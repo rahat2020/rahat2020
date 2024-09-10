@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Front-end developer and tech enthusiast passionate about coding and always eager to explore new technologies.
+## I am a Front-end developer and tech enthusiast. I am passionate about coding and eager to explore new technologies.
 
 
 ## 🌐 Socials:
